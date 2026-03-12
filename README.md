@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysh0209&show_icons=true&locale=en" alt="ysh0209" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysh0209&" alt="ysh0209" /></p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YST0209)](https://solved.ac/YST0209/)
