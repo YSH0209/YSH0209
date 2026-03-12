@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysh0209&" alt="ysh0209" /></p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YSH0209)](https://solved.ac/YSH0209/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysh0209)](https://solved.ac/ysh0209/)
